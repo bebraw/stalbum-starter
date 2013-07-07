@@ -1,0 +1,7 @@
+{
+  "name": "Demo Gallery",
+  "input": "images",
+  "output": ".",
+  "templates": "templates",
+  "prefix": "/stalbum-demo"
+}
