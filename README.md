@@ -10,3 +10,5 @@ This project acts as a starting point for creating your own gallery using [stalb
 6. Surf to localhost:3000
 
 Modify the contents of images/ (directory == album), templates/ and stylesheets/ to customize your build.
+
+As the tool relies on [ImageMagick](http://www.imagemagick.org/) you need to have that installed.
