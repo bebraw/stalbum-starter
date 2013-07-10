@@ -1,8 +1,8 @@
-# stalbum-demo
+# stalbum-starter
 
 This project acts as a starting point for creating your own gallery using [stalbum](https://github.com/bebraw/stalbum). Follow the steps below to get started:
 
-1. git clone https://github.com/bebraw/stalbum-demo.git
+1. git clone https://github.com/bebraw/stalbum-starter.git
 2. npm install stalbum -g (might need to sudo this)
 3. stalbum -c config.json
 4. npm install serve -g
